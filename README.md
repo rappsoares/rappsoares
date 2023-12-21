@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ## I'm Raphael Soares, 25 yo 😄
 
-- 🌱 I’m currently learning - SPA (Single Page Application) concepts, asynchronism, promises, OOP (Object Oriented Programming) concepts such as classes, inheritance and polymorphism. Immutability, error handling, localStorage, Github API consumption.
-- I’m looking to collaborate on front-end projects.
+- 📚 I’m currently learning - SPA (Single Page Application) concepts, asynchronism, promises, OOP (Object Oriented Programming) concepts such as classes, inheritance and polymorphism. Immutability, error handling, localStorage, Github API consumption.
+- 📚 What I'll study next - React.
+- 👓 I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: send me a message on my linkedin profile.
 
 ### Skills  :zap:
