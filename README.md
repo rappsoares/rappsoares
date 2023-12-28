@@ -24,6 +24,8 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Git</li>
+  <li>Figma</li>
+  
 </ul>
 
 <h3>Socials :link:</h3>
