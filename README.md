@@ -1,44 +1,20 @@
-<h2>Hi there 👋</h2>
-<h3>I'm Raphael Soares, 25 yo 😄</h3>
+### Hi there, I'm Raphael Soares 👋🏻
 
-<ul>
-  <li>
-    📚 I’m currently learning - SPA (Single Page Application) concepts,
-    asynchronism, promises, OOP (Object Oriented Programming) concepts such as
-    classes, inheritance and polymorphism. Immutability, error handling,
-    localStorage, Github API consumption.
-  </li>
-  <li>📚 What I'll study next - React.</li>
-  <li>👓 I’m looking to collaborate on front-end projects.</li>
-  <li>
-    📫 How to reach me: send me a message on my
-    <a href="https://www.linkedin.com/in/rappsoares/" target="_blank"
-      >LinkedIn profile</a
-    >.
-  </li>
-</ul>
+#### About
+I'm a Software Developer in my actual job 🚀
+- I'm studying Web Development in [Rocketseat](https://www.rocketseat.com.br/) and studying Computer Engineer in college 📚
 
-<h3>Skills :zap:</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Git</li>
-  <li>Figma</li>
-  
-</ul>
+#### Current Stack
+- 💥 Main language: `Pascal`
+- 🌕 Frontend: `HTML5` | `CSS3` | `JavaScript`
+- 🌑 Backend: `Node.js`
+- 🛢️ Database: `SQL`(`Firebird` | `IBExpert`)
+- 🎨 Layout Design: `Figma`
+- 📝 Version Control: `Git & GitHub`
+- 🛠️ Tools: `VS Code` | `Markdown`
+- 📊 Agile Methodology: `Kanban`
 
-<h3>Socials :link:</h3>
-<a href="https://www.linkedin.com/in/rappsoares/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn" />
-</a>
+#### Contacts
 
-<h3>Github Activities</h3>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=rappsoares&show_icons=true&theme=radical"
-  alt="Raphael Soares' GitHub Stats" />
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappsoares&layout=compact&theme=radical"
-  alt="Raphael Soares' Top Languages" />
+- 📪 Email: rappsoares@outlook.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/rappsoares/
