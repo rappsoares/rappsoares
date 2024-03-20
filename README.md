@@ -1,4 +1,4 @@
-## Hi there, I'm Raphael Soares 👋🏻
+### Hi there, I'm Raphael Soares 👋🏻
 
 #### About
 I'm a Software Developer in my actual job 🚀
