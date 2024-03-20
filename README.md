@@ -1,10 +1,10 @@
-### Hi there, I'm Raphael Soares 👋🏻
+# Hi there, I'm Raphael Soares 👋🏻
 
-#### About
+### About
 I'm a Software Developer in my actual job 🚀
 - I'm studying Web Development in [Rocketseat](https://www.rocketseat.com.br/) and studying Computer Engineer in college 📚
 
-#### Current Stack
+### Current Stacks
 - 💥 Main language: `Pascal`
 - 🌕 Frontend: `HTML5` | `CSS3` | `JavaScript`
 - 🌑 Backend: `Node.js`
@@ -14,7 +14,7 @@ I'm a Software Developer in my actual job 🚀
 - 🛠️ Tools: `VS Code` | `Markdown`
 - 📊 Agile Methodology: `Kanban`
 
-#### Contacts
+### Contacts
 
 - 📪 Email: rappsoares@outlook.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/rappsoares/
