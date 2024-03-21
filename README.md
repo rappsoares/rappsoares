@@ -11,7 +11,7 @@ I'm a Software Developer in my actual job 🚀
 - 🛢️ Database: `SQL`(`Firebird` | `IBExpert`)
 - 🎨 Layout Design: `Figma`
 - 📝 Version Control: `Git & GitHub`
-- 🛠️ Tools: `VS Code` | `Markdown`
+- 🛠️ Tools: `Delphi 11.3 Alexandria` | `VS Code` | `Markdown`
 - 📊 Agile Methodology: `Kanban`
 
 #### Contacts
